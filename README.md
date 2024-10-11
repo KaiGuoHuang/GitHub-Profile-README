@@ -4,13 +4,11 @@
 
 <h2>Hey! 👋</h2>
 
-![Visitor]![GitHub followers]
-
 I'm Kai Guo Huang!  
 - <i>Currently:</i> CS Student at University of San Francisco.  
 
 <h2>💻 I'm Currently Learning</h2>
 
-__University of Illinois at Chicago__  
+__University of San Franciso__  
 - CS110 Introduction to Computer Science I
 
