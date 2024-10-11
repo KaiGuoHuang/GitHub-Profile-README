@@ -9,6 +9,6 @@ I'm Kai Guo Huang!
 
 <h2>💻 I'm Currently Learning</h2>
 
-__University of San Franciso__  
+__University of San Francisco__  
 - CS110 Introduction to Computer Science I
 
