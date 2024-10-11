@@ -1,21 +1,18 @@
 # GitHub-Profile-README<!-- ![Lakshmanan Meiyappan Banner Image](./banner.png) -->
-<h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p>
+<h2 align='center'>Kai Guo Huang</h2>
+<p align='center'><b>Undergraduate at University of San Francisco</b></p>
 
 <h2>Hey! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena?style=social&label=Follow&maxAge=2592000)](https://github.com/laxmena?tab=followers)
 
-I'm Lakshmanan Meiyappan!  
-- <i>Currently:</i> MS CS Student at University of Illinois at Chicago.  
-- <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation.
+I'm Kai Guo Huang!  
+- <i>Currently:</i> CS Student at University of San Francisco.  
 
 <h2>💻 I'm Currently Learning</h2>
 
 __University of Illinois at Chicago__  
-- CS412 Introduction to Machine Learning  
-- CS418 Introduction to Data Science  
-- CS478 Software Development for Mobile Platforms
+- CS110 Introduction to Computer Science I
 
 <h2>About 🚀💯MLProjects</h2>
 
